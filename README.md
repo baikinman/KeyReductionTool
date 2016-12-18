@@ -11,3 +11,7 @@ In the case of scene reduction, please use it.
 
 # Operation Movie
 https://www.youtube.com/watch?v=r4HqgtUpY1U
+
+![Settings](https://github.com/baikinman/KeyReductionTool/blob/master/keyReductionTool.jpg)
+
+![Output sample](https://github.com/baikinman/KeyReductionTool/blob/master/keyReduction.gif)
