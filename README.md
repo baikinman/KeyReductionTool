@@ -1,5 +1,6 @@
 # Key Reduction Tool For Maya
 @author = Wataru Neoi
+@email  = june.25w@gmail.com
 
 This is a tool that substituting for the simplify curve tool which is a standard function.
 
